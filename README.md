@@ -1,5 +1,5 @@
 
-# 💼 Prodigy FS 02 – Interactive UI Web Page with CRUD-like Operations
+# 💼 Prodigy FS 02 – Employee Management System (Interactive UI Web Page with CRUD-like Operations)
 
 A simple yet modern front-end web application designed as part of the **Prodigy Internship Program – Task 2**. The project demonstrates essential UI concepts along with CRUD-like behavior using vanilla JavaScript, HTML, and CSS.
 
