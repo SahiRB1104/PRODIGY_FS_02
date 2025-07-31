@@ -84,4 +84,4 @@ This project is open-source under the [MIT License](LICENSE).
 ## 👤 Author
 
 - **Sahil R. B.**
-- [LinkedIn Profile](https://www.linkedin.com/in/sahilrb1104)
+- [LinkedIn Profile](https://www.linkedin.com/in/sahil-bhalekar-937079310/)
